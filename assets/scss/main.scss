@@ -6,3 +6,14 @@
 
 @import "layout";
 @import "syntax-highlighting";
+
+@media all and (max-width: 568px) {
+  .navbar {
+    position: relative;
+    top: 4px;
+    left: 10px;
+  }
+  .navbar li {
+    padding: 0 .1em;
+  }
+}
