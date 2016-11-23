@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**OatBot** is a super-cute robot super-computer designed to make perfect websites through digital telepathic connections with the client. **OatBot** can run for a whole day on a single oat. The oats he uses are both vegan and gluten-free.
+**OatBot** is a super-cute robot super-computer designed to make perfect websites through digital telepathic connections with the client. OatBot can run for an entire day on one single oat. OatBot oats are 100% vegan. Raw & gluten-free options available.
 
 In the real world, my name is **Dino** and I'm a meticulous software engineer from London that makes websites and web apps for my wonderful clients.
 
