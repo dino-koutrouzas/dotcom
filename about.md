@@ -14,8 +14,10 @@ I provide independent start-to-finish full-process freelance web design, develop
 
 I work with brands, start-ups businesses and individuals to bring web ideas to fruition. You can view some of my work [here](/projects).
 
+***
+
 I want to hear from you.
 
-To discuss ideas, projects and concepts, start with an an email:
+To discuss ideas, projects and concepts:
 
 [dino@oatbot.com](mailto:dino@oatbot.com)
