@@ -4,8 +4,8 @@ title: "Wild Love Beamer"
 comments: true
 description: "If you have a Guest post.."
 keywords: "dummy content"
-author: OatBot
-type: "2"
+author: Oat Bot
+type: "3"
 ---
 
 Wild Love Beamer is a London Yoga Agency and international Yoga Holiday facilitator founded by ieva Wildlovebeamer.
