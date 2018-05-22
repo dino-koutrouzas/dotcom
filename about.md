@@ -8,9 +8,9 @@ permalink: /about/
 
 ***
 
-In the real world, my name is **Dino** and I'm a meticulous software engineer from London that makes websites and web apps for my wonderful clients.
+In the real world, my name is **Dino** and I'm a software engineer from London that makes websites and web apps for my wonderful clients.
 
-I provide independent start-to-finish full-process freelance web design, development & strategy from a dual location of London (UK) & Lisbon (Portugal)
+I'm currenty employed full-time in the UK as a developer by [CollectPlus](https://www.collectplus.co.uk), and therefore not available to take on new projects.
 
 I work with brands, start-ups businesses and individuals to bring web ideas to fruition. You can view some of my work [here](/projects).
 
