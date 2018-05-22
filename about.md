@@ -20,4 +20,4 @@ I want to hear from you.
 
 To discuss ideas, projects and concepts:
 
-[dino@oatbot.com](mailto:dino@oatbot.com)
+[dino@oat-bot.com](mailto:dino@oat-bot.com)
