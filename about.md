@@ -10,7 +10,9 @@ permalink: /about/
 
 In the real world, my name is **Dino** and I'm a software engineer from London that makes websites and web apps for my wonderful clients.
 
-I'm currenty employed full-time in the UK as a developer by [CollectPlus](https://www.collectplus.co.uk), and therefore not available to take on new projects.
+My expertise lies in Ruby development, but I also work with Elixir, have experience with design and front-end, and am currently studying SQL and Linux.
+
+I'm employed full-time in the UK as a developer by [CollectPlus](https://www.collectplus.co.uk), and therefore not available to take on new projects.
 
 I work with brands, start-ups businesses and individuals to bring web ideas to fruition. You can view some of my work [here](/projects).
 
