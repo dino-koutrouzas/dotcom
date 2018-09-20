@@ -10,4 +10,4 @@ type: "2"
 
 Wild Love Beamer is a London Yoga Agency and international Yoga Holiday facilitator founded by ieva Wildlovebeamer.
 
-Check out the live site: [www.wildlovebeamer.com](http://www.wildlovebeamer.com){:target="_blank"}
+Check out the live site: [www.wildlovebeamer.com](https://www.wildlovebeamer.com){:target="_blank"}
