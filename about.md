@@ -11,7 +11,7 @@ In the real world, my name is **Dino** and I'm a software developer from London 
 
 I'm currently employed full-time and am therefore not available to take on new projects.
 
-I work with brands, start-ups businesses and individuals to bring web ideas to fruition. You can view some of my work [here](/projects).
+I work with brands, start-ups, businesses and individuals to bring web ideas to fruition. You can view some of my work [here](/projects).
 
 ***
 
